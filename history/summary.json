@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lukehjo.dev.ico",
     "slug": "personal-site",
     "status": "down",
-    "uptime": "0.43%",
-    "uptimeDay": "0.43%",
-    "uptimeWeek": "0.43%",
-    "uptimeMonth": "0.43%",
-    "uptimeYear": "0.43%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-26": 0
+      "2023-11-26": 81
     }
   }
 ]
