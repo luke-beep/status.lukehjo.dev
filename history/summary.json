@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tech.lukehjo.dev.ico",
     "slug": "luke-hjo-s-dev-log",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.97%",
-    "time": 289,
-    "timeDay": 359,
-    "timeWeek": 348,
-    "timeMonth": 281,
-    "timeYear": 289,
+    "uptimeYear": "99.98%",
+    "time": 288,
+    "timeDay": 240,
+    "timeWeek": 328,
+    "timeMonth": 280,
+    "timeYear": 288,
     "dailyMinutesDown": {
       "2024-01-17": 28
     }
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-13": 16,
+      "2024-02-14": 15,
+      "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
       "2024-02-10": 1440,
