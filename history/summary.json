@@ -4,7 +4,7 @@
     "url": "https://tech.lukehjo.dev",
     "icon": "https://icons.duckduckgo.com/ip3/tech.lukehjo.dev.ico",
     "slug": "luke-hjo-s-dev-log",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 287,
     "timeYear": 249,
     "dailyMinutesDown": {
+      "2024-08-23": 0,
       "2024-08-14": 35,
       "2024-01-17": 28
     }
@@ -37,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-23": 18,
+      "2024-08-23": 1081,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
